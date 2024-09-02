@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **522309_DESARROLLO_MEDIOS_GRAFICOS_INFO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/522309_DESARROLLO_MEDIOS_GRAFICOS_INFO/](https://ecored-sena.github.io/522309_DESARROLLO_MEDIOS_GRAFICOS_INFO/)
 
 #
